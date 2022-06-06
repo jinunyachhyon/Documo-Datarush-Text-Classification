@@ -3,6 +3,7 @@ Prediction of provided 'Text Abstracts' that belongs into various categories alo
 
 
 #About the dataset 
+
 train.csv - Training dataset containing id, abstract, category and category_num
 validation.csv - Validation dataset containing id, abstract, category and category_num
 test.csv - The testing dataset contains id, abstract. Prediciton of category_num was done.
