@@ -2,7 +2,7 @@
 Prediction of provided 'Text Abstracts' that belongs into various categories along with their category number using Machine Learning Algorithms such as Naive Bayes, Logistic Regression and Linear SVM.
 
 
-#About the dataset 
+##About the dataset 
 
 train.csv - Training dataset containing id, abstract, category and category_num
 validation.csv - Validation dataset containing id, abstract, category and category_num
